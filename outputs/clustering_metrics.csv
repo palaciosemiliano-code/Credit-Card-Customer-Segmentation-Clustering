@@ -1,0 +1,4 @@
+method,clusters,noise_points,silhouette
+K-Means,3,0,0.25061926305697263
+Agglomerative,3,0,0.1674469835551831
+DBSCAN,2,621,
